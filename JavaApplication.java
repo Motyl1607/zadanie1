@@ -15,7 +15,8 @@ public class JavaApplication {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.println("My name is Lukasz");
+       System.out.println("drugi commit");
+       System.out.println("powoli zaczynam rozumiec");
     }
     
 }
